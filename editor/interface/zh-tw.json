@@ -45,7 +45,7 @@
     "gui.connection.error.errorMessage": "喔，好像有什麼地方出錯了。",
     "gui.connection.error.tryagainbutton": "再試一次",
     "gui.connection.error.helpbutton": "幫助",
-    "gui.connection.manual": "手动连接",
+    "gui.connection.manual": "手動連接",
     "gui.connection.peripheral-name-label": "裝置名稱",
     "gui.connection.connect": "開始連線",
     "gui.connection.scanning.lookingforperipherals": "正在尋找裝置",

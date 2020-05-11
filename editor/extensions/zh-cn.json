@@ -72,7 +72,7 @@
     "marty.angry":"生气",
     "marty.backward":"后",
     "marty.battVoltBlock": "电池电压",
-    "marty.blockingBlock": "[BLOCK] 阻塞模式",
+    "marty.blockingBlock": "[BLOCK] 锁定模式",
     "marty.circleDanceBlock": "[MOVETIME]秒內向[DIRECTION]跳圈圈舞",
     "marty.connectManually": "手动连接",
     "marty.description": "与Marty一起玩和编程",
